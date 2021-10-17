@@ -1,0 +1,2 @@
+# kursnaanalityka
+ćwiczenia SQL-owe
