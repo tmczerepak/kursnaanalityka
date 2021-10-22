@@ -70,7 +70,7 @@ insert into produkt(nazwa, cena, kategoria, kraj_pochodzenia) VALUES ('Drop crot
 insert into produkt(nazwa, cena, kategoria, kraj_pochodzenia) VALUES ('Drop crotch Jeansy',256.99,'Spodnie','Polska');
 insert into produkt(nazwa, cena, kategoria, kraj_pochodzenia) VALUES ('Drop crotch Sztruksy',111.99,'Spodnie','Polska');
 insert into produkt(nazwa, cena, kategoria, kraj_pochodzenia) VALUES ('Slim Sztruksy',299.99,'Spodnie','Niemcy');
-
+--koment
 
 CREATE table zamowienie (
     id serial PRIMARY KEY,
